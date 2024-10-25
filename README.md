@@ -1,3 +1,3 @@
 # newbie_demo
-this is my first git repository
-author aarav
+this is my first git repository.
+author -- aarav
